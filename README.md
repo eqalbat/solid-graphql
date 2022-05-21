@@ -1,3 +1,10 @@
+## Stack
+
+- graphql
+- urql
+- solidjs
+- graphql-yoga
+
 ## 참고
 
 - https://www.youtube.com/watch?v=LZc2hSghezM
